@@ -1,0 +1,17 @@
+{
+    "editor.fontSize": 15,
+    "editor.fontFamily": "Monaco, Menlo, Monaco, 'Courier New', monospace",
+    "workbench.colorTheme": "(Actual) Obsidian",
+    "editor.formatOnPaste": true,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.snippetSuggestions": "top",
+    "editor.minimap.enabled": false,
+    "workbench.colorCustomizations": {
+        "statusBar.background": "#333"
+    },
+    "workbench.activityBar.visible": false,
+    "explorer.openEditors.visible": 0,
+    "workbench.statusBar.feedback.visible": false,
+    "editor.scrollBeyondLastLine": false,
+    "window.zoomLevel": 0
+}
